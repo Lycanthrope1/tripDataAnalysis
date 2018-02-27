@@ -1,0 +1,3 @@
+turnCountTimeLoc <- function() { 
+indexTurns()
+} 
